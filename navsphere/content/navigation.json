@@ -87,6 +87,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753873030637",
+              "title": "v0 by Vercel",
+              "href": "https://v0.dev/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
