@@ -63,6 +63,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753872936632",
+              "title": "Sora",
+              "href": "https://sora.chatgpt.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
