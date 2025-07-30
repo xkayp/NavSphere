@@ -95,6 +95,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753873055568",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
