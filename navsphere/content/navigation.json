@@ -32,6 +32,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "38f20a83-547e-4d82-ba6a-6eec1e5e4ccb",
+          "title": "AI",
+          "icon": "Brain",
+          "description": "AI Chat Bot",
+          "enabled": true,
+          "items": []
         }
       ]
     }
