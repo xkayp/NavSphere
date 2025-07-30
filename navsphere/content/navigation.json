@@ -47,6 +47,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753872890549",
+              "title": "Claude",
+              "href": "https://claude.ai/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
