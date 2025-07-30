@@ -22,6 +22,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753872731898",
+              "title": "Google Images",
+              "href": "https://images.google.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
