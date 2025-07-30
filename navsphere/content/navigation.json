@@ -39,7 +39,16 @@
           "icon": "Brain",
           "description": "AI Chat Bot",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753872868957",
+              "title": "Chat | Google AI Studio",
+              "href": "https://aistudio.google.com/prompts/new_chat",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
