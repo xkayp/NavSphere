@@ -79,6 +79,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753872986171",
+              "title": "Microsoft Copilot",
+              "href": "https://copilot.microsoft.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
