@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1753872601864",
+      "title": "Search & AI",
+      "icon": "Search",
+      "description": "Search engine and AI chat bot",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
