@@ -14,7 +14,16 @@
           "icon": "Search",
           "description": " Search Engine",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753872702799",
+              "title": "Google Search",
+              "href": "https://www.google.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
