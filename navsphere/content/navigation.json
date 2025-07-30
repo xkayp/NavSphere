@@ -7,7 +7,16 @@
       "description": "Search engine and AI chat bot",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "a662ef4b-6060-41f9-9ec9-47ec05da37a4",
+          "title": "Search",
+          "icon": "Search",
+          "description": " Search Engine",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
