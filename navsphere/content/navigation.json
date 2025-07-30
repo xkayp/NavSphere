@@ -55,6 +55,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1753872911817",
+              "title": "ChatGPT",
+              "href": "https://chatgpt.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
