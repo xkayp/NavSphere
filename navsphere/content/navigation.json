@@ -45,7 +45,7 @@
               "title": "Chat | Google AI Studio",
               "href": "https://aistudio.google.com/prompts/new_chat",
               "description": "",
-              "icon": "",
+              "icon": "<img src=\"https://favicon.im/aistudio.google.com?larger=true\" alt=\"aistudio.google.com favicon (large)\" />",
               "enabled": true
             },
             {
